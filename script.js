@@ -17,7 +17,7 @@ const copy = {
   },
   zh: {
     navFeatures: '功能', navWhy: '为什么', navGithub: 'GitHub', lang: 'EN',
-    eyebrow: '让 X 安静一点', heroTitle: 'Clean X Up',,
+    eyebrow: '让 X 安静一点', heroTitle: 'Clean X Up',
     heroLede: '让 X 安静一点，让那些细小的干扰轻轻退到视线之外。',
     download: '下载 Chrome 插件', viewGithub: '在 GitHub 查看', microcopy: '免费、开源、不追踪。',
     featuresEyebrow: '四个小开关', featuresTitle: '功能',
