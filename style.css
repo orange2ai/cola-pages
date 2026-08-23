@@ -59,7 +59,7 @@ h2 { margin-bottom: 18px; font-family: Georgia, "Times New Roman", serif; font-s
 .feature h3 { margin: 25px 0 10px; font-size: 16px; }
 .feature p { margin: 0; color: #b5b7b1; font-size: 14px; line-height: 1.6; }
 .why, .closing { max-width: 1240px; margin: 0 auto; padding: 120px 32px; }
-.why { display: grid; grid-template-columns: 130px minmax(0, 680px); gap: 54px; }
+.why { display: block; }
 .why-mark { color: var(--blue); font-size: 110px; }
 .why p:not(.eyebrow), .closing > p:not(.eyebrow) { max-width: 620px; color: #575a56; font-size: 17px; }
 .closing { padding-top: 30px; padding-bottom: 130px; border-top: 1px solid var(--line); }
