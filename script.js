@@ -27,7 +27,7 @@ const copy = {
     f4Title: 'Tab 通知', f4Body: '移除未读数字，使用没有通知红点的 X favicon。',
     whyEyebrow: '为什么是 Clean X Up', whyTitle: '为什么',
     whyBody: 'Clean X Up 给界面留出一点安静，让你选择留下的内容好好待在视线里。',
-    closingEyebrow: '按你的方式使用', closingTitle: '开始使用',,,
+    closingEyebrow: '按你的方式使用', closingTitle: '开始使用',
     closingBody: '四个功能都可以独立开关。设置面板支持英文和简体中文，也会默认跟随浏览器语言。',
     getIt: '获取 Clean X Up', privacy: '查看隐私政策', footer: '开源，只让网络少一点噪音。'
   }
