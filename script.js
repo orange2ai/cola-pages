@@ -1,7 +1,7 @@
 const copy = {
   en: {
     navFeatures: 'Features', navWhy: 'Why', navGithub: 'GitHub', lang: '中文',
-    eyebrow: 'A quieter X experience', heroTitle: 'X is already loud enough.',
+    eyebrow: 'A quieter X experience', heroTitle: 'Clean X Up',
     heroLede: 'A quieter way to use X, with the small distractions gently out of view.',
     download: 'Download for Chrome', viewGithub: 'View on GitHub', microcopy: 'Free, open source, no tracking.',
     featuresEyebrow: 'Four small switches', featuresTitle: 'Features',
@@ -17,7 +17,7 @@ const copy = {
   },
   zh: {
     navFeatures: '功能', navWhy: '为什么', navGithub: 'GitHub', lang: 'EN',
-    eyebrow: '让 X 安静一点', heroTitle: 'X 已经够吵了。',
+    eyebrow: '让 X 安静一点', heroTitle: 'Clean X Up',,
     heroLede: '让 X 安静一点，让那些细小的干扰轻轻退到视线之外。',
     download: '下载 Chrome 插件', viewGithub: '在 GitHub 查看', microcopy: '免费、开源、不追踪。',
     featuresEyebrow: '四个小开关', featuresTitle: '功能',
